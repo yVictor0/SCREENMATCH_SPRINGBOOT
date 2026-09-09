@@ -1,6 +1,6 @@
 # ScreenMatch 🎬
 
-Projeto desenvolvido por **Yan Victor de Miranda Teodosio** durante a formação **Java Web** da **Alura**, com a proposta de criar uma aplicação web utilizando **Spring Boot**, integrando e consumindo as APIs do **OMDb** e **OpenAI (ChatGPT)** para buscar, traduzir, tratar e persistir dados de séries em um banco de dados relacional, disponibilizando endpoints REST para o front-end.
+Projeto desenvolvido por **Yan Victor de Miranda Teodosio** através do programa **ITT x Alura** — uma iniciativa voltada ao ensino de programação e tecnologia para alunos de escolas públicas. A aplicação foi criada durante a formação **Java Web**, com a proposta de construir uma API REST utilizando **Spring Boot**, integrando e consumindo as APIs do **OMDb** e **OpenAI (ChatGPT)** para buscar, traduzir, tratar e persistir dados de séries em um banco de dados relacional.
 
 ---
 
@@ -69,7 +69,7 @@ Projeto desenvolvido por **Yan Victor de Miranda Teodosio** durante a formação
 ## 👨‍💻 Desenvolvedor
 
 **Yan Victor de Miranda Teodosio**  
-Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack em formação.
+Estudante de Análise e Desenvolvimento de Sistemas e participante do ciclo **ITT x Alura**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-yVictor0-181717?style=for-the-badge&logo=github)](https://github.com/yVictor0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yan_Victor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yan-victor-de-miranda-teodosio-2b821422b/)
